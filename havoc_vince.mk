@@ -17,8 +17,6 @@
 # Inherit from those products. Most specific first.
 $(call inherit-product, $(SRC_TARGET_DIR)/product/core_64_bit.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
-$(call inherit-product, vendor/havoc/config/phone-xxhdpi-4096-dalvik-heap.mk)
-$(call inherit-product, vendor/havoc/config/phone-xxhdpi-2048-hwui-memory.mk)
 
 # Inherit from vince device
 $(call inherit-product, device/xiaomi/vince/device.mk)
