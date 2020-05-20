@@ -1,0 +1,22 @@
+[
+   {
+      "repository":"ender1324/vendor_xiaomi_vince",
+      "target_path":"vendor/xiaomi/vince",
+      "remote" : "github",
+      "branch":"aicp-10"
+   },
+
+   {
+      "repository":"ender1324/device_xiaomi_msm8953-common",
+      "target_path":"device/xiaomi/msm8953-common",
+      "remote" : "github",
+      "branch":"aicp-10"
+   },
+
+   {
+      "repository":"Blacksuan19/kernel_dark_ages_vince",
+      "target_path":"kernel/xiaomi/msm8953",
+      "remote" : "github",
+      "branch":"darky"
+   }
+]
